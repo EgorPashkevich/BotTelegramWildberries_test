@@ -1,0 +1,6 @@
+.idea/
+__pycache__/
+venv/
+BotTelegramWildberries_test/
+config.py
+db
